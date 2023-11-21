@@ -61,7 +61,7 @@ import csv
 import time
 
 # Set your OpenAI API key here
-api_key = "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"
+api_key = "API key"
 
 # Function to generate additional rows based on the input data with rate limiting
 def generate_rows_with_rate_limit(input_csv, output_csv, num_rows=20, max_rows_per_request=5, delay_seconds=21):
