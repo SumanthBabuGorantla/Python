@@ -3,7 +3,7 @@ import csv
 import time
 
 # Set your OpenAI API key here
-api_key = "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"
+api_key = "your API key"
 
 # Function to generate additional rows based on the input data
 def generate_rows(input_csv, output_csv, num_rows=10,delay_seconds=21):
